@@ -4,7 +4,7 @@
 This project aims to address the Toxic Comment Classification Challenge, a prominent Kaggle competition that has been held annually since 2018. The challenge revolves around detecting and categorizing various levels of toxicity in negative and disrespectful online comments, spanning from insults to violent threats. In this project, we explore different text preprocessing techniques, including TF-IDF vectorization and word embedding (specifically GloVe), to enhance the performance of machine learning models for classifying toxic comments.
 
 ## Dataset:
-The dataset used in this project is sourced from the first edition of the Toxic Comment Classification Challenge. It consists of a collection of online comments labeled with six types of toxicity: toxic, severe toxic, obscene, threat, insult, and identity hate. Detailed information about the dataset and instructions on how to access it can be found [here](link_to_dataset).
+The dataset used in this project is sourced from the first edition of the Toxic Comment Classification Challenge. It consists of a collection of online comments labeled with six types of toxicity: toxic, severe toxic, obscene, threat, insult, and identity hate. Detailed information about the dataset and instructions on how to access it can be found [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview).
 
 ## Methodology:
 1. **Text Preprocessing:** We experiment with various text preprocessing methods, including TF-IDF vectorization and GloVe word embeddings, to transform the raw text data into numerical representations suitable for machine learning models.
